@@ -1,4 +1,4 @@
-# beelog [![Build Status](https://travis-ci.org/astaxie/beego.svg?branch=master)](https://travis-ci.org/astaxie/beego)
+# beeblog [![Build Status](https://travis-ci.org/astaxie/beego.svg?branch=master)](https://travis-ci.org/astaxie/beego)
 
 Beeblog, based on Beego framework, is a web project build to represent yourself to this world. Establish your personal-website using beeblog, now！
 
