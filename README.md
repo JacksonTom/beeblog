@@ -25,5 +25,5 @@ Congratulations! You've just built your first beeblog.
 
 ## Example-Site
 
-[www.jacksontom.com](www.jacksontom.com)
+[www.jacksontom.com](http://www.jacksontom.com)
 
