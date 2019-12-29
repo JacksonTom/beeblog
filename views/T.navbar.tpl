@@ -11,11 +11,6 @@
     <div class="pull-right">
         <ul class="nav navbar-nav">
             <li>
-                <a href="http://www.beian.miit.gov.cn" target="_Blank">
-                    苏ICP备19012905号
-                </a>
-            </li>
-            <li>
                 <a href="https://github.com/JacksonTom/beeblog" target="_Blank">
 				　　<img  src="/static/img/Github.png" >
 			    </a>
