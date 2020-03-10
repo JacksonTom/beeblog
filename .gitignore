@@ -1,3 +1,4 @@
 .idea
 beeblog.exe
 data/beeblog.db
+*.exe
